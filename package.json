@@ -1,0 +1,24 @@
+{
+  "name": "vast-player",
+  "version": "1.0.0",
+  "description": "html5 vast video player",
+  "main": "player.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/a-sydorenko/vast-player.git"
+  },
+  "keywords": [
+    "vast",
+    "wrapper",
+    "html5-player"
+  ],
+  "author": "Oleksandr Sydorenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-sydorenko/vast-player/issues"
+  },
+  "homepage": "https://github.com/a-sydorenko/vast-player#readme"
+}
