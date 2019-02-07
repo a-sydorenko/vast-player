@@ -1,6 +1,6 @@
 {
   "name": "vast-player",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "html5 vast video player",
   "main": "player.js",
   "scripts": {
